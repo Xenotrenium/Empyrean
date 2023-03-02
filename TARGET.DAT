@@ -1,0 +1,43 @@
+//				   Citadel        Engage         Heavy
+//					    Intercept      Support        Assault
+//							 Tactical       Psychic        Destroy
+//                 C    I    T    E    S    P    H    A    D	
+{
+   "foot"        " 0    0    1    1    1    1    1    0    0" 
+   "wheel"       " 0    0    1    1    1    1    1    0    0"
+   "tread"       " 0    0    1    1    1    1    1    0    0"
+   "air"         " 0    1    1    0    1    1    1    1    0"
+   "naval"       " 1    0    0    0    1    1    1    1    1"
+   "space"       " 1    0    0    0    1    1    1    1    1"
+   "hover"       " 0    0    1    1    1    1    1    0    0"
+   "jump"        " 1    0    0    0    1    1    1    1    1"
+   "crawler"     " 0    0    0    1    0    1    0    0    0"
+   "lander"      " 1    0    0    0    1    1    1    1    1"
+   "mech"        " 0    1    1    0    1    1    1    1    0"
+   "gate"        " 1    0    0    0    1    1    1    1    1"
+   "underwater"  " 1    0    0    1    0    1    0    0    0"
+}	
+//                 C    I    T    E    S    P    H    A    D										
+{	
+   "order"       " 0    1    2    3    4    5    6    7    8"
+   "phases"      " 3    3    3    3    3    4    3    3    3"
+}
+//					^ EVERYTHING ABOVE IS USEFUL\FUNCTIONAL ^
+//					v   EVERYTHING BELOW IS DOCUMENTATION   v
+//"foot"       = Foot			-> 		Ground
+//"wheel"      = Mechanized     -> 		Ground
+//"tread"      = Amphibious     -> 		Ground
+//"air"        = Atmospheric    -> Fast
+//"naval"      = Naval          -> 				Large
+//"space"      = Orbital        -> 				Large
+//"hover"      = Repulsing      -> 		Ground
+//"jump"       = Jump           -> 				Large
+//"crawler"    = Covert         ->   Covert
+//"lander"     = Lander         -> 				Large
+//"mech"       = Exoatmospheric -> Fast
+//"gate"       = Gravitational  -> 				Large
+//"underwater" = Subnautical    ->           Subnautical
+//   "FAST"      " 0    1    1    0    1    1    1    1    0" 
+//   "GROUND"    " 0    0    1    1    1    1    1    0    0" 
+//   "LARGE"     " 1    0    0    0    1    1    1    1    1" 
+//                 C    I    T    E    S    P    H    A    D
