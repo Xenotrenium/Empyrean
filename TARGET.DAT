@@ -6,14 +6,14 @@
    "foot"        " 0    0    1    1    1    1    1    0    0" 
    "wheel"       " 0    0    1    1    1    1    1    0    0"
    "tread"       " 0    0    1    1    1    1    1    0    0"
-   "air"         " 0    1    1    0    1    1    1    1    0"
+   "air"         " 0    1    1    0    0    1    1    1    0"
    "naval"       " 1    0    0    0    1    1    1    1    1"
    "space"       " 1    0    0    0    1    1    1    1    1"
    "hover"       " 0    0    1    1    1    1    1    0    0"
    "jump"        " 1    0    0    0    1    1    1    1    1"
    "crawler"     " 0    0    0    1    0    1    0    0    0"
    "lander"      " 1    0    0    0    1    1    1    1    1"
-   "mech"        " 0    1    1    0    1    1    1    1    0"
+   "mech"        " 0    1    1    0    0    1    1    1    0"
    "gate"        " 1    0    0    0    1    1    1    1    1"
    "underwater"  " 1    0    0    1    0    1    0    0    0"
 }	
@@ -37,7 +37,7 @@
 //"mech"       = Exoatmospheric -> Fast
 //"gate"       = Gravitational  -> 				Large
 //"underwater" = Subnautical    ->           Subnautical
-//   "FAST"      " 0    1    1    0    1    1    1    1    0" 
+//   "FAST"      " 0    1    1    0    0    1    1    1    0" 
 //   "GROUND"    " 0    0    1    1    1    1    1    0    0" 
 //   "LARGE"     " 1    0    0    0    1    1    1    1    1" 
 //                 C    I    T    E    S    P    H    A    D
