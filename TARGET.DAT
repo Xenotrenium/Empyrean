@@ -1,3 +1,6 @@
+// Empyrean version 1
+// Documentation and explanation is at the end.
+//
 //				   Citadel        Engage         Heavy
 //					    Intercept      Support        Assault
 //							 Tactical       Psychic        Destroy
@@ -41,3 +44,15 @@
 //   "GROUND"    " 0    0    1    1    1    1    1    0    0" 
 //   "LARGE"     " 1    0    0    0    1    1    1    1    1" 
 //                 C    I    T    E    S    P    H    A    D
+// Citadel - 	Long-range against naval\starships, small accurate anti-submarine weapons, sabotage
+// Intercept - 	Dedicated Point Defense against Missiles, Aviation and Starfighter types
+// Tactical - 	Secondary point defense, but also useful against ground targets
+// Engage - 	Primary attack phase given to most units, can also be used against submarines, mostly at penalties
+// Suppport - 	Late-fire heavy weaponry, such as artillery or machineguns
+// Psychic - 	Can target anything
+// Heavy - 		Orbital bombardment, covert boarding and PTS. May not target covert units.
+// Assault - 	Main space attack, will not target boarders
+// Destroy - 	Late-fire Anti-Capital
+//
+// Changelog 09.April.23
+// Constructed this file using my CITESPHAD design.
